@@ -79,29 +79,10 @@ export default {
         },
         {
           icon: 'mdi-account',
-          title: 'Profile',
-          to: '/profile',
+          title: 'Product',
+          to: '/product',      
         },
-        {
-          icon: 'mdi-settings',
-          title: 'Settings',
-          to: '/settings',
-        },
-        {
-          icon: 'mdi-help-circle',
-          title: 'Help',
-          to: '/help',
-        },
-        {
-          icon: 'mdi-information',
-          title: 'About',     
-          to: '/about',
-        },
-        {
-          icon: 'mdi-logout',
-          title: 'Logout',
-          to: '/logout',      
-        },
+
         {
           icon: 'mdi-logout',
           title: 'signup',
