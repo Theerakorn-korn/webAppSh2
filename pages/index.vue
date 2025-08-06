@@ -110,6 +110,7 @@ export default {
         { text: 'ประเภท', value: 'usersystems_type' },
         { text: 'จัดการ', value: 'actions', sortable: false },
       ],
+      testAPI:'',
     }
   },
   mounted() {

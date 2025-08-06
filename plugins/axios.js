@@ -5,6 +5,7 @@ Vue.config.productionTip = false
 const request = axios.create({
 
        baseURL: 'http://localhost:8080/ovec_gensave/gensave_api', 
+       /* baseURL: 'http://ovec_gensave/ovec_gensave/gensave_api', */ 
   })
 Vue.use(VueAxios, request)
 
