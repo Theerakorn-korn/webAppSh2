@@ -72,3 +72,10 @@ More information about the usage of this directory in [the documentation](https:
 git add .
 git commit -m "24-6-2025 AM"
 git push -u origin main
+
+
+
+git clone https://github.com/Theerakorn-korn/webAppSh2.git
+cd ....folder
+npm install
+npm run dev
